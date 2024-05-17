@@ -1,0 +1,13 @@
+git clone repo-link
+
+(new files add)
+
+git status - for checking status of repo
+
+git add .  - all files
+git add flename - add single file
+git add -A  - for adding only updated files
+
+git commit -m "add message "
+
+git push - push code to git
